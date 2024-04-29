@@ -24,8 +24,8 @@ async function getImage(query, random = false) {
   }
 }
 
-getImage('dogs', true);
-getImage('dogs', false);
+getImage('cats', true);
+getImage('cats');
 
 
 
